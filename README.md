@@ -1,3 +1,4 @@
+
 # Libaspace – Full Stack Software Engineer (AI Application) Challenge
 
 ## Overview
@@ -62,3 +63,6 @@ npm run dev
 ## Author
 **Venkata**  
 Full Stack Software Engineer (AI Applications)
+=======
+# Job-nova
+A full-stack job recommendation platform built with Next.js and Spring Boot, featuring real-time video/audio sessions using LiveKit, secure API integration, and optional AI-powered digital human avatars (Tavus Persona) for interactive user experiences.
