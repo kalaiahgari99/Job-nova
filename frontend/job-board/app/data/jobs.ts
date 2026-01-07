@@ -1,0 +1,78 @@
+export const jobs = [
+  {
+    id: 1,
+    matchPercent: 64,
+    title: "Web Application Developer",
+    company: "Backd Business Funding",
+    location: "Austin, Texas Metropolitan Area",
+    workType: "On-site",
+    tags: ["Full time", "0 of 3 skills match", "Mid Level", "$65/yr - $70/yr"],
+    postedAgo: "1 hours ago",
+    applicants: "25 applicants",
+    liked: false,
+    // 👇 OPTIONAL fields for details page
+  description: `Attending meetings to discuss needs, goals, budgets and timelines with clients or management
+
+Coding applications and creating databases that serve as website frameworks
+
+`,
+  qualifications: ["Bachelor’s degree or equivalent"],
+  responsibilities: [
+    "Build scalable web applications",
+    "Collaborate with designers and PMs",
+  ],
+  benefits: ["Health insurance", "401k", "Flexible schedule"],
+  companyAbout: `Diversity and inclusion are key to a great workplace, and Adaptive is better when it's more representative of the world around us. We want everyone to feel comfortable bringing their whole selves to work without any fear of judgment or negativity.
+              All we ask is that our colleagues are respectful, collaborative, passionate about what they do, and have the skills needed to be successful in their roles.`,
+  required: ["3+ years of design experience",
+  "3+ years delivering design solutions as a UX designer or interaction designer",
+  "Have an available online portfolio",
+  "Experience prototyping (HTML, XHTML, JavaScript, CSS, Flash or Flash Catalyst, or Axure)"],
+preferred: ["2+ years of mass-market consumer web / mobile products experience",
+  "Experience working in a collaborative team and directly with developers",],
+  },
+  {
+    id: 2,
+    matchPercent: 93,
+    title: "Software Engineer, Network Infrastructure",
+    company: "Cursor AI",
+    location: "Sunnyvale, CA",
+    workType: "On-site",
+    tags: ["Full time", "5+ years exp", "Mid Level", "$161K/yr - $239K/yr"],
+    postedAgo: "2 hours ago",
+    applicants: "25 applicants",
+    liked: true,
+    description: "Job description text from Figma...",
+  qualifications: ["Bachelor’s degree or equivalent"],
+  responsibilities: [
+    "Build scalable web applications",
+    "Collaborate with designers and PMs",
+  ],
+  benefits: ["Health insurance", "401k", "Flexible schedule"],
+  companyAbout: "About the company text from Figma...",
+  required: [],
+preferred: [],
+  },
+  {
+    id: 3,
+    matchPercent: 82,
+    title: "Full-Stack Software Engineer (Web Developer)",
+    company: "Simons Foundation",
+    location: "New York , NY",
+    workType: "On-site",
+    tags: ["Full time", "5+ years exp", "Mid Level", "$125K/yr - $140/yr"],
+    postedAgo: "2 hours ago",
+    applicants: "25 applicants",
+    liked: false,
+    description: "Job description text from Figma...",
+  qualifications: ["Bachelor’s degree or equivalent"],
+  responsibilities: [
+    "Build scalable web applications",
+    "Collaborate with designers and PMs",
+  ],
+  benefits: ["Health insurance", "401k", "Flexible schedule"],
+  companyAbout: "About the company text from Figma...",
+  required: [],
+preferred: [],
+  },
+];
